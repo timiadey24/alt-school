@@ -1,0 +1,37 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: auto;
+    background-color: black;
+    max-width: fit-content;
+}
+.box1 {
+    width: 350px;
+    border: 2px solid orange;
+    height: 100px;
+}
+.box2 {
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    border: 2px solid orange;
+}
+td {
+    width: 50px;
+    height: 30px;
+    border-radius: 100px;
+    padding: 10px;
+}
+table {
+    border-spacing: 20px;
+}
+button {
+    background-color: black;
+    font-size: 20px;
+}

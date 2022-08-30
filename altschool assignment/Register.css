@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 700px;
+    border: 2px solid #ac3b61;
+    margin-top: 150px;
+    max-width: 100%;
+    max-height: max-content;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    text-align: start;
+    font-size: 60px;
+    color: #ac3b61;
+}
+.form {
+    text-align: center;
+    background-color: #ffc89a;
+    color: #ac3b61;
+}
+body {
+    background-color: #474b4f;
+}
+.FirstName {
+    width: 450px;
+    height: 40px;
+    font-style: italic;
+    font-size: 15px;
+}
+.LastName {
+    width: 450px;
+    height: 40px;
+    font-style: italic;
+    font-size: 15px;
+}
+.Phone {
+    width: 450px;
+    height: 40px;
+    font-style: italic;
+    font-size: 15px;
+}
+.Gender {
+    width: 450px;
+    height: 40px;
+    font-style: italic;
+    font-size: 15px;
+}
+.Country {
+    width: 450px;
+    height: 40px;
+    font-style: italic;
+    font-size: 15px;
+}
+.State {
+    width: 450px;
+    height: 40px;
+    font-style: italic;
+    font-size: 15px;
+}
+.Password {
+    width: 450px;
+    height: 40px;
+    font-style: italic;
+    font-size: 15px;
+}
+.confirm {
+    width: 450px;
+    height: 40px;
+    font-style: italic;
+    font-size: 15px;
+}
+.FirstName {
+    width: 450px;
+    height: 40px;
+    font-style: italic;
+    font-size: 15px;
+}
+.Username {
+    width: 450px;
+    height: 40px;
+    font-style: italic;
+    font-size: 15px;
+}
+.option {
+    font-style: italic;
+        font-size: 15px;
+}
+.box1 {
+    padding: 25px;
+}
+.box2 {
+    padding: 25px;
+}
+.box3 {
+    padding: 25px;
+}
+.box4 {
+    padding: 25px;
+}
+.box5 {
+    padding: 25px;
+}
+.box6 {
+    padding: 25px;
+}
+.box7 {
+    padding: 25px;
+}
+.box8 {
+    padding: 25px;
+}
+.box9 {
+    padding: 25px;
+}
+.box {
+    padding: 25px;
+}
